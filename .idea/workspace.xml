@@ -6,10 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b19e5b4a-a9fc-4529-8834-5c1cff78bf44" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/donated/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/donated/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/donated/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/donated/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1712476573243</updated>
       <workItem from="1712476610886" duration="3805000" />
-      <workItem from="1712564580256" duration="1239000" />
+      <workItem from="1712564580256" duration="1987000" />
     </task>
     <servers />
   </component>
